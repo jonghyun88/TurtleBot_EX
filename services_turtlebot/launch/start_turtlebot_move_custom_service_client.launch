@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="services_turtlebot" type="turtlebot_move_custom_service_client.py" name="service_move_turtlebot_in_square_custom_client" output="screen" />
+</launch>
